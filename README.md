@@ -1,6 +1,6 @@
 ![singularity icon](https://github.com/Lumince/singularity/blob/main/icon.png)
 
-···
+```
 [ro.build.version.all_codenames]: [REL]
 [ro.build.version.base_os]: []
 [ro.build.version.codename]: [REL]
@@ -13,7 +13,7 @@
 [ro.build.version.sdk]: [32]
 [ro.build.version.security_patch]: [2023-10-06]
 [ro.product.model]: [Quest 2]
-···
+```
 
 # Singularity
 
