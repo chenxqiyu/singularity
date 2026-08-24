@@ -1,5 +1,18 @@
 ![singularity icon](https://github.com/Lumince/singularity/blob/main/icon.png)
 
+[ro.build.version.all_codenames]: [REL]
+[ro.build.version.base_os]: []
+[ro.build.version.codename]: [REL]
+[ro.build.version.incremental]: [50686620050300150]
+[ro.build.version.min_supported_target_sdk]: [23]
+[ro.build.version.preview_sdk]: [0]
+[ro.build.version.preview_sdk_fingerprint]: [REL]
+[ro.build.version.release]: [12]
+[ro.build.version.release_or_codename]: [12]
+[ro.build.version.sdk]: [32]
+[ro.build.version.security_patch]: [2023-10-06]
+[ro.product.model]: [Quest 2]
+
 # Singularity
 
 Singularity is an AIO pancake (ionstack port) root app for Meta VR headsets.
