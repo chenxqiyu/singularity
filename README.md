@@ -1,6 +1,8 @@
 ![singularity icon](https://github.com/Lumince/singularity/blob/main/icon.png)
 
 ```
+adb shell pm disable-user --user 0 com.oculus.updater
+
 [ro.build.version.all_codenames]: [REL]
 [ro.build.version.base_os]: []
 [ro.build.version.codename]: [REL]
